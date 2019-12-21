@@ -1,6 +1,6 @@
 # Authentication-Service
 
-The "user-facing" commands\
+**The "user-facing" commands**\
 \
 The following user-facing commands must be supported. Every command appears on a line by itself, and the output of every command should appear on a line by itself.\
 \
@@ -19,7 +19,7 @@ Removes all username/password combinations from the service. The output is CLEAR
 QUIT :\
 The output of this command is GOODBYE. Once this command has been processed, the program should end.\
 \
-The debug commands\
+**The debug commands**\
 \
 The following debug commands must be supported. These are designed to provide you visibility into the internals of your service, which will assist you in your testing. They are also designed to provide us visibility when we grade your project.\
 \
