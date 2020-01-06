@@ -2,7 +2,7 @@
 
 **The "user-facing" commands**\
 \
-The following user-facing commands must be supported. Every command appears on a line by itself, and the output of every command should appear on a line by itself.\
+The following user-facing commands is supported. Every command appears on a line by itself, and the output of every command should appear on a line by itself.\
 \
 CREATE username password :\
 Create a new username/password combination and stores it in the program's collection. If successful, the output is CREATED. If the username is already stored in the collection, no change is made and the output is EXISTS. (One key consequence is that the same username cannot appear in the collection more than once.)\
